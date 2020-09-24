@@ -1,0 +1,34 @@
+{
+    "visitas": [
+        {
+            "datahora": "22/08/2020 11:00",
+            "idimovel": 1235848,
+            "visitante": "Samuel Silva",
+            "endereco": "Rua Sombrio, 123"
+        },
+        {
+            "datahora": "22/08/2020 14:00",
+            "idimovel": 1321,
+            "visitante": "José Soares",
+            "endereco": "Rua Jaguará, 55"
+        },
+        {
+            "datahora": "22/08/2020 16:00",
+            "idimovel": 119979556,
+            "visitante": "Augusto Lima",
+            "endereco": "Rua Joinville, 3812"
+        },
+        {
+            "datahora": "22/08/2020 17:30",
+            "idimovel": 119264412,
+            "visitante": "Pedro Faria",
+            "endereco": "Rua Blumenau, 420"
+        },
+        {
+            "datahora": "22/08/2020 10:00",
+            "idimovel": 2155542,
+            "visitante": "Gilberto Figueiredo",
+            "endereco": "Rua Santa Catarina, 3200"
+        }
+    ]
+}

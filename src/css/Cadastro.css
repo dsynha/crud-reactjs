@@ -1,0 +1,30 @@
+.cadastro{
+    margin-top: 75px;
+}
+
+.cadastro .logo{
+    width: 150px;
+    height: auto;
+    margin-bottom: 25px;
+}
+
+.cadastro .box{
+    width: 400px;
+    height: 350px;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.okBtn{
+    background-color: #0dc2ef !important;
+    color: #ffffff !important;
+    border: none !important;
+    margin: 10px 0px;
+}
+
+@media (max-width: 425px){
+    .cadastro .box{
+        width: auto;
+    }
+}

@@ -1,0 +1,54 @@
+.topo h2{
+    color: #525252;
+}
+
+.tabela table{
+    color: #939393;
+}
+
+.addBtn{
+    background-color: #0dc2ef !important;
+    color: #ffffff !important;
+    border: none !important;
+}
+
+.editBtn{
+    background-color: #0dc2ef;
+    color: #ffffff;
+    padding: 0px 10px;
+    margin: 0px 5px;
+    border-radius: 30px;
+}
+
+.deleteBtn{
+    background-color: #ee655d;
+    color: #ffffff;
+    padding: 0px 10px;
+    margin: 0px 5px;
+    border-radius: 30px;
+}
+
+.modalHeader{
+    background-color: #0dc2ef;
+    color: #ffffff;
+}
+
+.cadastrarBtn{
+    background-color: #0dc2ef !important;
+    color: #ffffff !important;
+    border: none !important;
+}
+
+.naoBtn{
+    background-color: #ee655d !important;
+    color: #ffffff !important;
+    border: none !important;
+    margin: 0px 5px;
+}
+
+.simBtn{
+    background-color: #0dc2ef !important;
+    color: #ffffff !important;
+    border: none !important;
+    margin: 0px 5px;
+}

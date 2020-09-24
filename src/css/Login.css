@@ -1,0 +1,30 @@
+.login{
+    margin-top: 75px;
+}
+
+.login .logo{
+    width: 150px;
+    height: auto;
+    margin-bottom: 25px;
+}
+
+.login .box{
+    width: 400px;
+    height: 300px;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.entrarBtn{
+    background-color: #0dc2ef !important;
+    color: #ffffff !important;
+    border: none !important;
+    margin: 10px 0px;
+}
+
+@media (max-width: 425px){
+    .login .box{
+        width: auto;
+    }
+}

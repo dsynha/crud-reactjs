@@ -1,0 +1,34 @@
+.header{
+    background-color: #0dc2ef;
+    color: #ffffff;
+}
+
+.header a{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.line{
+    height: 20px;
+    border-right: 1px solid #ffffff;
+    margin: 0 20px;
+}
+
+.logo{
+    width: 150px;
+    height: auto;
+}
+
+@media (max-width: 425px){
+    .header{
+        flex-direction: column;
+    }
+
+    .logo{
+        margin-bottom: 10px;
+    }
+
+    .olaCorretor{
+        margin-top: 5px;
+    }
+}
